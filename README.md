@@ -1,2 +1,4 @@
 # MastersWorkLog
-读研工作日志
+```c
+Keeping a graduate study work log
+```
